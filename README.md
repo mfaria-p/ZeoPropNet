@@ -9,7 +9,7 @@ Built with **TensorFlow** and **Keras**, it supports:
 - Model training and evaluation with automated scripts
 - Configuration-driven experimentation for flexible model adjustments
 
-📖 You can check the full project report and documentation here.
+📖 You can check the full project report and documentation [here](https://github.com/mfaria-p/ZeoPropNet/blob/d9cd6e0cb622776161c5900c0c5d68eb393c8e55/Final_report.pdf).
 
 The datasets used were sourced from my [Web Scraping project](https://github.com/mfaria-p/Webscrapping_zeolites.git), which compiled zeolite data from the [International Zeolite Association (IZA)](https://www.iza-structure.org/databases/). By extracting **composite building units**, I generated **fingerprints** as input for the neural network.
 
