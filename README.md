@@ -1,11 +1,15 @@
 # **ZeoPropNet: A Machine Learning Framework for Zeolite Property Prediction**
 
 ## 📌 **Overview**
-ZeoPropNet is a **machine learning framework** designed for predicting various **zeolite properties**, particularly the framework density, using **neural networks**. Built with **TensorFlow** and **Keras**, it supports:
+ZeoPropNet is a **machine learning framework** designed for predicting various **zeolite properties**, particularly the framework density, using **neural networks**.This project was developed as part of a **student internship at Laboratório Associado LSRE-LCM (Porto, Portugal)** during July–August 2024. 
+
+Built with **TensorFlow** and **Keras**, it supports:
 - Cross-validation for robust model evaluation
 - Hyperparameter tuning with **Keras Tuner**
 - Model training and evaluation with automated scripts
 - Configuration-driven experimentation for flexible model adjustments
+
+📖 You can check the full project report and documentation here.
 
 The datasets used were sourced from my [Web Scraping project](https://github.com/mfaria-p/Webscrapping_zeolites.git), which compiled zeolite data from the [International Zeolite Association (IZA)](https://www.iza-structure.org/databases/). By extracting **composite building units**, I generated **fingerprints** as input for the neural network.
 
